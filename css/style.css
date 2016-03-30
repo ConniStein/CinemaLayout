@@ -1,0 +1,98 @@
+/*comienzo menú*/
+.menu{
+	background-color: #c34646 solid;
+	border:transparent 1px;
+}
+
+.logo{
+	width: 100%;
+	float: left;
+}
+
+.movie{
+	font-family: Arial;
+	color: #696868;
+	font-size: 14px;
+	font-weight: bold;
+	padding:50px;
+}
+
+.buscador{
+	font-family: Arial;
+	color: #696868;
+	font-size: 14px;
+	font-weight: bold;
+	border:#696868 solid 2px;
+	padding:20px;
+	width: 200px;
+	height: 70px;
+	margin:15px 40px 30px 40px;
+}
+/*fin de menu*/
+
+/*comienzo banner*/
+
+.banner{
+	max-width: 100%;
+	position: relative;
+}
+
+.icono{
+	width: 100px;
+	height: 100px;
+	bottom:200px;
+	left: 400px;
+	position: absolute;
+}
+
+.description{
+	font-family: Arial;
+	border: transparent 1px;
+	color:#3ec1e7;
+}
+
+.lista-1{
+	list-style: none;
+}
+
+.lista-2{
+	list-style: none;
+	color:#3ec1e7;
+}
+
+.boton-amarillo{
+	border-radius: 10%;
+	font-family: Arial;
+	color:#fff;
+	background-color: #e7d731;
+	height: 50px;
+	width: 180px;
+	padding:15px;
+}
+
+.boton-naranjo{
+	border-radius: 5%;
+	font-family: Arial;
+	color:#fff;
+	background-color: #c58f0c;
+	height: 50px;
+	width: 180px;
+	padding:15px;
+}
+
+/*fin banner*/
+
+/*comienzo div naranjo con imagenes*/
+
+.container-naranjo{
+	background-color: #e7cf3e;
+	border: transparent solid 1px;
+	height: 300px;
+}
+
+.fotos-1{
+	width: 170px;
+	height: 250px;
+	padding:15px;
+	margin-top: 15px;
+}
