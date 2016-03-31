@@ -61,7 +61,7 @@
 }
 
 .boton-amarillo{
-	border-radius: 10%;
+	border-radius: 30%;
 	font-family: Arial;
 	color:#fff;
 	background-color: #e7d731;
@@ -71,7 +71,7 @@
 }
 
 .boton-naranjo{
-	border-radius: 5%;
+	border-radius: 3%;
 	font-family: Arial;
 	color:#fff;
 	background-color: #c58f0c;
@@ -95,4 +95,40 @@
 	height: 250px;
 	padding:15px;
 	margin-top: 15px;
+}
+
+/*fin div naranjo con imagenes*/
+
+iframe{
+	margin-bottom: 40px;
+}
+
+/*comienzo parrafos*/
+
+.texto-gris{
+	color: #9c9a9a;
+	font-family: Arial;
+	margin:20px;
+}
+
+.texto-negro{
+	font-family: Arial;
+	font-size: 20px;
+}
+
+.boton-ticket{
+	background-color: #c5990e;
+	border-radius: 3%;
+	height: 50px;
+	width: 180px;
+	padding:15px;
+	font-family: Arial;
+	border:1px transparent solid;
+	color:#fff;
+}
+
+.texto-naranjo{
+	color:#c5990e;
+	font-family: Arial;
+	margin-top: 20px;
 }
