@@ -46,8 +46,8 @@
 
 .banner-container{
 	position: relative;
-	background-image: url(img/banner.jpg);
-	height: 1000px;
+	background-image: url(../img/banner.jpg);
+	height: 600px;
 }
 
 h1{
@@ -142,6 +142,7 @@ hr{
 
 iframe{
 	margin-bottom: 40px;
+	max-width: 100%;
 }
 
 /*comienzo parrafos*/
@@ -239,8 +240,8 @@ h4{
 	border:1px transparent;
 	box-shadow: 2px;
 	height: 300px;
-	top: 1500px;
-	position: absolute;
+	top: 300px;
+	position: relative;
 }
 
 .disclaimer{
